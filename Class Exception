@@ -1,0 +1,8 @@
+
+public class KontoAusnahme extends Exception {
+	
+      public KontoAusnahme(String a){
+    	   
+       }
+
+}
